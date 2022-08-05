@@ -19,9 +19,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohib04&show_icons=true&locale=en&layout=compact" alt="mohib04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohib04&show_icons=true&locale=en" alt="mohib04" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohib04&show_icons=true&locale=en" alt="mohib04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohib04&" alt="mohib04" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohib04&" alt="mohib04" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
