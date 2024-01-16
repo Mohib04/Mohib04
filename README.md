@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohibbulla Munshi</h1>
 Aspiring software engineer with a passion for crafting innovative solutions. Seeking a dynamic role to apply my programming skills, engineering mindset, and problem-solving abilities in a collaborative environment. Committed to continuous learning and eager to contribute to cutting-edge projects that push the boundaries of technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohib04&label=Profile%20views&color=0e75b6&style=flat" alt="mohib04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohib04" alt="mohib04" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohib_munshi" target="blank"><img src="https://img.shields.io/twitter/follow/mohib_munshi?logo=twitter&style=for-the-badge" alt="habibmunshi" /></a> </p>
 
 - 🔭 I’m currently working on [ANH GROUP](https://anhgroupbd.com/)
 
@@ -17,11 +12,18 @@ Aspiring software engineer with a passion for crafting innovative solutions. See
 
 - 📫 How to reach me **mohib.agu@gmail.com**
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohib04&show_icons=true&locale=en&layout=compact" alt="mohib04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohib04&show_icons=true&locale=en" alt="mohib04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohib04&" alt="mohib04" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohib04&label=Profile%20views&color=0e75b6&style=flat" alt="mohib04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohib04" alt="mohib04" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mohib_munshi" target="blank"><img src="https://img.shields.io/twitter/follow/mohib_munshi?logo=twitter&style=for-the-badge" alt="habibmunshi" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
