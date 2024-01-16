@@ -2,7 +2,7 @@
 Aspiring software engineer with a passion for crafting innovative solutions. Seeking a dynamic role to apply my programming skills, engineering mindset, and problem-solving abilities in a collaborative environment. Committed to continuous learning and eager to contribute to cutting-edge projects that push the boundaries of technology.
 
 
-- 🔭 I’m currently working on [ANH GROUP](https://anhgroupbd.com/)
+- 🔭 I’m currently working at [ANH GROUP](https://anhgroupbd.com/) as Software Engineer
 
 - 🌱 I’m currently learning **DSA, Core PHP, Laravel, Vue js, Nuxt js**
 
@@ -12,8 +12,6 @@ Aspiring software engineer with a passion for crafting innovative solutions. See
 
 - 📫 How to reach me **mohib.agu@gmail.com**
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohib04&show_icons=true&locale=en&layout=compact" alt="mohib04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohib04&show_icons=true&locale=en" alt="mohib04" /></p>
 
