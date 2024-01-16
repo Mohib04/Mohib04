@@ -4,7 +4,7 @@ Aspiring software engineer with a passion for crafting innovative solutions. See
 
 - 🔭 I’m currently working at [ANH GROUP](https://anhgroupbd.com/) as Software Engineer
 
-- 🌱 I’m currently learning **DSA, Core PHP, Laravel, Vue js, Nuxt js**
+- 🌱 I’m currently learning **DSA, Python, RDMS, Problem Solving, Vue js, Nuxt js**
 
 - 👨‍💻 All of my projects are available at [www.creativedevteam.com](www.creativedevteam.com)
 
